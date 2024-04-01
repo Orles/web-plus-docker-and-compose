@@ -1,1 +1,1 @@
-./pg-data
+pg-data/pg_stat_tmp/*
